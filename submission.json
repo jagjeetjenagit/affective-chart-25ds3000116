@@ -1,7 +1,6 @@
 {
   "prompt": "Cinematic aerial night photograph of one city split into two thermal realities in a single frame. The left side is cool and breathable: soft cobalt mist, dark rooftops, damp streets reflecting faint blue light. The right side is oppressive heat: orange haze, asphalt visibly shimmering, white-hot window glare, sparse trees with curled dry leaves, and dust hanging in stagnant air. The hot zone is larger and pushing leftward with an irregular front, suggesting relentless expansion. No people are visible, but a small abandoned bicycle near the heat boundary implies human cost without literal storytelling. Composition is asymmetrical with roughly 70% of the frame dominated by the hot side, strong leading lines pulling the eye into the heat plume. Mood: claustrophobic, irreversible, grief-heavy. Color palette: cobalt blue, charcoal gray, toxic amber, white-hot highlights. Hyperrealistic documentary style, high dynamic range, fine grain, deep shadows. No text, no labels, no legends, no axes, no numbers, no chart elements, no infographic symbols.",
   "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
-  "dataset_name": "NASA GISS Surface Temperature Analysis (GISTEMP)",
-  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
-  "insight": "NASA GISTEMP reports global temperature anomaly rising from about +0.27°C in 1980 to about +1.18°C in 2023, with 2023 the warmest year on record."
+  "concept": "distribution shift",
+  "metaphor": "A city split into cool and extreme heat zones shows deployment conditions drifting from the training environment, making previously reliable predictions fail."
 }
